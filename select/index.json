@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "​ひつじがいっぴき",
+  "base_artist": "Peg",
+  "createdAt": "2025-12-01T01:15:08.294306Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ひつじがいっぴき (feat. 小豆沢こはね, 白石杏, 東雲彰人, 青柳冬弥 & MEIKO)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/01_ひつじがいっぴき_(feat._小豆沢こはね,_白石杏,_東雲彰人,_青柳冬弥_&_MEIKO)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ひつじがいっぴき",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO",
+      "has_synced": true,
+      "path": "select/02_ひつじがいっぴき_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ひつじがいっぴき",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/03_ひつじがいっぴき_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ひつじがいっぴき - One Sheep (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/04_ひつじがいっぴき_-_One_Sheep_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&MEIKO)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ひつじがいっぴき (feat. 小豆沢こはね & 白石杏 & 東雲彰人 & 青柳冬弥 &...",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/05_ひつじがいっぴき_(feat._小豆沢こはね_&_白石杏_&_東雲彰人_&_青柳冬弥_&..._Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ひつじがいっぴき (instrumental)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/06_ひつじがいっぴき_(instrumental)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "​ひつじがいっぴき",
+      "artist": "Peg",
+      "has_synced": false,
+      "path": "select/pl_​ひつじがいっぴき_Peg.txt"
+    }
+  ]
+}
